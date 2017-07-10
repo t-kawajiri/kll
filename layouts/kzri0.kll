@@ -44,7 +44,7 @@ U"FUNCTION5" : U"RIGHT";
 U"FUNCTION4" : U"LEFT";
 U"FUNCTION3" : U"LCTRL" + U"V";
 U"BACKTICK" : U"LCTRL" + U"C";
-U"LGUI" : U"LALT";
+U"LGUI" : U"GUI";
 U"FUNCTION6" : U"EQUAL";
 U"6" : U"6";
 U"7" : U"7";
@@ -82,5 +82,5 @@ U"LEFT" : U"DOWN";
 U"DOWN" : U"UP";
 U"UP" : U"LCTRL" + U"B";
 U"RIGHT" : U"LCTRL" + U"LSHIFT" +U"J";
-U"RGUI" : U"RALT";
+U"RGUI" : U"RGUI";
 
